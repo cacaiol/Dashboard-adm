@@ -34,16 +34,16 @@ export default function Sidebar() {
                                  Usuário
                         </li>
                         </Link>
+                        <Link to="/products" className="link">
                         <li className="sidebarListItem">
                              <Storefront className="sidebarIcon"/>
-                                 Análises
+                                 Produtos
                         </li>
-                        <Link to="/analise" className="link">
+                        </Link>
                         <li className="sidebarListItem">
                              <AttachMoney className="sidebarIcon"/>
                                 Transações
                         </li>
-                        </Link>
                         <li className="sidebarListItem">
                              <BarChart className="sidebarIcon"/>
                                 Relatório
