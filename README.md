@@ -42,7 +42,7 @@ Um dashboard feito para administrar os dados da sua empresa, sejam cadastros, ve
 
 Caio Fernandes - caiocdwork@gmail.com
 
-Link do Projeto: [https://github.com/github_cacaiol/repo_dashboard-adm](https://github.com/github_username/repo_name)
+Link do Projeto: https://github.com/cacaiol/dashboard-adm
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
