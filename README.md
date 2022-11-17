@@ -36,7 +36,7 @@ Um dashboard feito para administrar os dados da sua empresa, sejam cadastros, ve
 
 ### Construído com
 
-* [https://pt-br.reactjs.org/]
+* [![React][React.js]][React-url]
 
 ## Contact
 
@@ -45,3 +45,6 @@ Caio Fernandes - caiocdwork@gmail.com
 Link do Projeto: [https://github.com/github_cacaiol/repo_dashboard-adm](https://github.com/github_cacaiol/repo_dashboard-adm)
 
 
+<!-- MARKDOWN LINKS & IMAGES -->
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://pt-br.reactjs.org/
