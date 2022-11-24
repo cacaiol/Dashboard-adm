@@ -32,7 +32,7 @@
 ## Sobre o Projeto
 
 
-Um dashboard feito para administrar os dados da sua empresa, sejam cadastros, vendas, transações e usuários ativos.
+Dashboard feito para representar uma tela de transações, cadastros, usuários dentre outras funcionalidades.
 
 ### Construído com
 
