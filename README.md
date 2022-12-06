@@ -31,11 +31,13 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o Projeto
 
-<div>
-<img src="https://user-images.githubusercontent.com/107950801/204530102-496fcc1d-88b8-4369-9190-9819bc6b8559.png" width="500px">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/107950801/205974502-e399b68f-ef2b-41f2-8503-d7b043199dc6.png" width="500px">
 </div>
+<br/>
+<br/>
 
-Dashboard feito para representar uma tela de transações, cadastros, usuários dentre outras funcionalidades.
+                   Dashboard feito para representar uma tela de transações, cadastros de usuários dentre outras funcionalidades.
 
 ### Construído com
 
